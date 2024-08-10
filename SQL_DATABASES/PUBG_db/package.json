@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "pubg_db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Satyam Shorrf",
+  "license": "ISC",
+  "description": ""
+}
